@@ -1,0 +1,6 @@
+psutil
+opencv-python
+Pillow 
+pygame
+ffpyplayer
+py-cpuinfo
