@@ -2,10 +2,11 @@ import tkinter as tk
 from tkinter import messagebox
 
 def about_program():
-    info = """ShellOS Dallas
-    Version: Beta 1.2 (b1.2)
-    Build Number: 241023
-    Python 3.12.6
+    info = """ShellOS Houston
+    Version: Beta 1.2 Linux Edition 
+    (b1.2le)
+    Build Number: 241110le
+    Python 3.13.0
     """
     messagebox.showinfo("About ShellOS", info)
 
