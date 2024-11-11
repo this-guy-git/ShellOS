@@ -1,4 +1,4 @@
 # ShellOS Linux
-This Fork of ShellOS is made for Linux Mint
+This Fork of ShellOS is made for Ubuntu, Debian, and Arch. Might work on Fedora.
 
-*Unknown if works with other Distros!!!*
+*Requires Python IDE/VSCode*
