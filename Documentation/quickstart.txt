@@ -1,0 +1,30 @@
+==ShellOS Quick Start==
+This is a quick start guide for ShellOS 
+
+==Setting up ShellOS==
+
+You will need Python Installed alongside pip preferably 3.12.6 for python and pip 24.2 as ShellOS is built with these versions
+
+Assuming you extracted the zip you are gonna want to run the main.py file by double clicking it or running "python main.py" 
+
+If it does not start and closes you can run it using the before mentioned python main.py to see an error message 
+
+If it doesn't start most likely these are some reasons it wont 
+
+-Python isn't installed correctly
+
+-Python's Scripts folder or Python in general isn't added to path you can have python install to path during Python Setup
+
+-You dont meet the system requirements (you probably do as I don't think anyone has a pc with less than 192mb of ram, 25mb of storage and a 250mhz 1 core cpu)
+
+-Pip is missing or not installed correctly
+
+==Importing custom or 3rd party guis==
+In ShellOS you can import other Graphical Shells besides the default ShellOS Shell
+
+To do this you will need a Graphical Shell to actually import obviously and the folder must be named "Graphical_Shell"
+
+Start by navigating to the "SYSTEM" folder and Selecting the already existing "Graphical_Shell" folder you can rename it to something else or delete it then drag or copy the new Graphical Shell into the folder it must be named "Graphical_Shell"
+unless you're willing to modify the code of ShellOS
+
+then run ShellOS to make sure it works and its done 
